@@ -1,2 +1,4 @@
 # MaterialCalc
-Simple calculator built in React Native with material design
+Simple calculator built in React Native with material design.
+
+##
